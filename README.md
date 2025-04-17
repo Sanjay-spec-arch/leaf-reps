@@ -1,1 +1,1 @@
-# leaf-reps
+# plant_disease_detection
